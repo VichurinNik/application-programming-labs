@@ -43,31 +43,24 @@ def counting_birth(separation: str) -> list[str]:
     year = date_d.year
     day =date_d.day
     mo = date_d.month
-    if counting_years(day,mo,year)==1:
+    if 30<counting_years(day,mo,year)<40:
         b+=1
    return b
 
 
 def counting_years(da: int,mo:int,yea:int)->int:
+    """
+    Сделал if как вы и сказали, отступы проверил все стоит как у вас.
+    """
     current_day = datetime.datetime.now().date()
     day = current_day.day
     month = current_day.month
-    c=0
-    """
-    Все работает но через капец какие костыли
-    """
-    if (1985>yea or 1995<yea):
-        c+=0
-    elif (1984<yea and 1994>yea):
-        c+=1
-    elif (1984==yea or 1994==yea) and (month>=mo):
-        c+=1
-    elif (1983==yea) and (month<=mo):
-      c+=1
-    elif (1993==yea) and (month<=mo):
-      c+=1
+    year=current_day.year
+    Birthday=year-yea
+    if( (mo>month) or ((mo==month) and da>day)):
+        Birthday-=1
+    return Birthday
 
-    return c
 
 def main():
    filename = parsing()
