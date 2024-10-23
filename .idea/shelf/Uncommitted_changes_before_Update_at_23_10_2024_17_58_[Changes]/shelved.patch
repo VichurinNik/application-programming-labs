@@ -1,0 +1,78 @@
+Index: .idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/.idea/inspectionProfiles/profiles_settings.xml	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
++++ /dev/null	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26__Changes_.xml	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
++++ /dev/null	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]" date="1728829586887" recycled="false" toDelete="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13.10.2024 18:26 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_13_10_2024_18_26_[Changes]/shelved.patch	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
++++ /dev/null	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
+@@ -1,16 +0,0 @@
+-Index: .idea/vcs.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$/application-programming-labs\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+-===================================================================
+-diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+---- a/.idea/vcs.xml	(revision 27d9714966dde9258ed4429532c4ccb1c399a100)
+-+++ b/.idea/vcs.xml	(date 1728491342031)
+-@@ -2,6 +2,5 @@
+- <project version="4">
+-   <component name="VcsDirectoryMappings">
+-     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+--    <mapping directory="$PROJECT_DIR$/application-programming-labs" vcs="Git" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
++++ /dev/null	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
++++ /dev/null	(revision 10014fd103fdbbcd1d788efdd5001bdb06906565)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.12" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
