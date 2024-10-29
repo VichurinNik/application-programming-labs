@@ -2,7 +2,7 @@ import csv
 import os
 
 
-def create_annotation(imgdir: str, csv_path: str) -> None:
+def annotation(imgdir: str, csv_path: str) -> None:
     """
     Creates a CSV annotation file with relative and absolute paths to images in the specified directory.
     :param imgdir: The directory containing the images.

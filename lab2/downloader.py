@@ -2,7 +2,7 @@ import os
 
 from icrawler.builtin import GoogleImageCrawler
 
-def download_images(keyword: str, number: int, imgdir: str) -> None:
+def download(keyword: str, number: int, imgdir: str) -> None:
     for filename in os.listdir(imgdir):
         """
         Deletes old images from the target directory before uploading new ones.
