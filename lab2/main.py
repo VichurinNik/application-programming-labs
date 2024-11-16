@@ -5,7 +5,7 @@ from annotation import annotation
 
 
 def main() -> None:
-    arg=parser.parser()
+    arg = parser.parser()
     try:
         downloader.download(arg.keyword, arg.number, arg.imgdir)
         annotation(arg.imgdir,arg.annotation_file)
@@ -13,7 +13,7 @@ def main() -> None:
         for item in my_iterator:
             print(item)
     except Exception as e:
-        print( {e} )
+        print(e)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0532285-6840-4ad9-9c63-c43fd64f8051" name="Changes" comment="ь">
+      <change afterPath="$PROJECT_DIR$/lab2/annotation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/annotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/downloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/parser.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alan Asanov &lt;alanlox1882@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VichurinNik&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VichurinNik/application-programming-labs.git&quot;,
+    &quot;accountId&quot;: &quot;292fc899-a007-422e-bb55-790f3ca574db&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nqOTSn0P5YL2DGsnTdIVw5wNiE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab2-var3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kompic/Desktop/Тимофей/Lab_2&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0532285-6840-4ad9-9c63-c43fd64f8051" name="Changes" comment="" />
+      <created>1729697147522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729697147522</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Внесены исправления в 1 и 2 лабораторных">
+      <option name="closed" value="true" />
+      <created>1729697254990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729697254990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1729697330075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729697330075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <option name="closed" value="true" />
+      <created>1729697383562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729697383562</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 лаба">
+      <option name="closed" value="true" />
+      <created>1730219741523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730219741524</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2 лаба">
+      <option name="closed" value="true" />
+      <created>1730219746535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730219746535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ь">
+      <option name="closed" value="true" />
+      <created>1730220433927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730220433927</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ь">
+      <option name="closed" value="true" />
+      <created>1730224155425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730224155425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Внесены исправления в 1 и 2 лабораторных" />
+    <MESSAGE value="add" />
+    <MESSAGE value="2 лаба" />
+    <MESSAGE value="ь" />
+    <option name="LAST_COMMIT_MESSAGE" value="ь" />
+  </component>
+</project>
