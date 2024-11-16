@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0532285-6840-4ad9-9c63-c43fd64f8051" name="Changes" comment="ь">
-      <change afterPath="$PROJECT_DIR$/lab2/annotation.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/annotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/parser.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0532285-6840-4ad9-9c63-c43fd64f8051" name="Changes" comment="Лабу сдал" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730224155425</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Лабу сдал">
+      <option name="closed" value="true" />
+      <created>1731772779904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731772779905</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -153,6 +155,7 @@
     <MESSAGE value="add" />
     <MESSAGE value="2 лаба" />
     <MESSAGE value="ь" />
-    <option name="LAST_COMMIT_MESSAGE" value="ь" />
+    <MESSAGE value="Лабу сдал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабу сдал" />
   </component>
 </project>
